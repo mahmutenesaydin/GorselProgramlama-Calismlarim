@@ -1,0 +1,7 @@
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\bin\Debug\Ders7ÇalışmaLibrary.dll
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\bin\Debug\Ders7ÇalışmaLibrary.pdb
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\bin\Debug\Ders7Çalışma.Entity.dll
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\bin\Debug\Ders7Çalışma.Entity.pdb
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\obj\Debug\Ders7ÇalışmaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\obj\Debug\Ders7ÇalışmaLibrary.dll
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\Ders7ÇalışmaLibrary\obj\Debug\Ders7ÇalışmaLibrary.pdb

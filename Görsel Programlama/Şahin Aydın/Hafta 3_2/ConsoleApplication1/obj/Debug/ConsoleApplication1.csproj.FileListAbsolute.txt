@@ -1,0 +1,6 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

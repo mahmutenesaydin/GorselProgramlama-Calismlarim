@@ -1,0 +1,30 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_PresentationLayer.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_PresentationLayer.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_PresentationLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_DataLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_DataLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.CategoryForm.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.Properties.Resources.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.ProductForm.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3_2\NorthwindSolution\_PresentationLayer\bin\Debug\_PresentationLayer.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3_2\NorthwindSolution\_PresentationLayer\obj\Debug\_PresentationLayer.pdb

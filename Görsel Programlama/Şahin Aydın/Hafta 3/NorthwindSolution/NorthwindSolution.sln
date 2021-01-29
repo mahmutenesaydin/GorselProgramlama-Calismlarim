@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_DataLayer", "_DataLayer\_DataLayer.csproj", "{09305FE6-5CCB-44D7-A737-7C13547EAB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BusinessLayer", "_BusinessLayer\_BusinessLayer.csproj", "{8860A3C3-C971-4D76-BC0B-A4061F0506B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09305FE6-5CCB-44D7-A737-7C13547EAB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09305FE6-5CCB-44D7-A737-7C13547EAB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09305FE6-5CCB-44D7-A737-7C13547EAB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09305FE6-5CCB-44D7-A737-7C13547EAB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8860A3C3-C971-4D76-BC0B-A4061F0506B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8860A3C3-C971-4D76-BC0B-A4061F0506B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8860A3C3-C971-4D76-BC0B-A4061F0506B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8860A3C3-C971-4D76-BC0B-A4061F0506B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

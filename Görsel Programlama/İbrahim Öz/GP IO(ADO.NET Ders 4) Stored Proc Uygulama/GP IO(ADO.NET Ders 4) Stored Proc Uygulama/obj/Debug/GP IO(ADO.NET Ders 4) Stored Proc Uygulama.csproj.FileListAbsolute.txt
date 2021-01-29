@@ -1,0 +1,12 @@
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\bin\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.exe.config
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\bin\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.exe
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\bin\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.pdb
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.csprojResolveAssemblyReference.cache
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP_IO_ADO.NET_Ders_4__Stored_Proc_Uygulama.Form1.resources
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP_IO_ADO.NET_Ders_4__Stored_Proc_Uygulama.Properties.Resources.resources
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.csproj.GenerateResource.Cache
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.exe
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\bin\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\GP IO(ADO.NET Ders 4) Stored Proc Uygulama\obj\Debug\GP IO(ADO.NET Ders 4) Stored Proc Uygulama.pdb

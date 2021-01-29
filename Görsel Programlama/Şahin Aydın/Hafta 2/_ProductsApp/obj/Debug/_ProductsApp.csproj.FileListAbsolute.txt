@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\bin\Debug\_ProductsApp.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\bin\Debug\_ProductsApp.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\bin\Debug\_ProductsApp.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.Form1.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.Properties.Resources.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.csproj.GenerateResource.Cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 2\_ProductsApp\bin\Debug\_ProductsApp.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 2\_ProductsApp\obj\Debug\_ProductsApp.pdb

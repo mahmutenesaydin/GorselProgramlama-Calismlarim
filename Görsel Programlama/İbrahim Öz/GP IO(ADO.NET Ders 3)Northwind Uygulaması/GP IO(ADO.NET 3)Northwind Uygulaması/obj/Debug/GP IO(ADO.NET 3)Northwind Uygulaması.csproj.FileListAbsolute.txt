@@ -1,0 +1,3 @@
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET 3)Northwind Uygulaması\GP IO(ADO.NET 3)Northwind Uygulaması\bin\Debug\GP IO(ADO.NET 3)Northwind Uygulaması.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET 3)Northwind Uygulaması\GP IO(ADO.NET 3)Northwind Uygulaması\bin\Debug\GP IO(ADO.NET 3)Northwind Uygulaması.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 3)Northwind Uygulaması\GP IO(ADO.NET 3)Northwind Uygulaması\bin\Debug\GP IO(ADO.NET 3)Northwind Uygulaması.exe.config

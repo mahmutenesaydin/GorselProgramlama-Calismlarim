@@ -1,0 +1,17 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\EntityFramework.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\EntityFramework.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\obj\Debug\PresentationLayer.CategoryForm.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\PresentationLayer\obj\Debug\PresentationLayer.pdb

@@ -1,0 +1,18 @@
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.exe.config
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.exe
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.pdb
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\Ders7Çalışma.Entity.dll
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\Ders7ÇalışmaLibrary.dll
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\Ders7Çalışma.Entity.pdb
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\Ders7ÇalışmaLibrary.pdb
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.csprojResolveAssemblyReference.cache
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP_IO_ADO.NET_Ders_7__Üst_Düzey_Mimari.Form1.resources
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP_IO_ADO.NET_Ders_7__Üst_Düzey_Mimari.Properties.Resources.resources
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.csproj.GenerateResource.Cache
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.exe
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.pdb
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP_IO_ADO.NET_Ders_7__Üst_Düzey_Mimari.KategoriForm.resources
+C:\Users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP_IO_ADO.NET_Ders_7__Üst_Düzey_Mimari.UrunForm.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\bin\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\GP IO(ADO.NET Ders 7) Üst Düzey Mimari\obj\Debug\GP IO(ADO.NET Ders 7) Üst Düzey Mimari.pdb

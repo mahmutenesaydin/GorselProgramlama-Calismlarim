@@ -1,0 +1,5 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO Ders 5) n-Tier Katmansal Mimar\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO Ders 5) n-Tier Katmansal Mimar\KuzeyYeli.ORM\bin\Debug\KuzeyYeli.ORM.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO Ders 5) n-Tier Katmansal Mimar\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO Ders 5) n-Tier Katmansal Mimar\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO Ders 5) n-Tier Katmansal Mimar\KuzeyYeli.ORM\obj\Debug\KuzeyYeli.ORM.pdb

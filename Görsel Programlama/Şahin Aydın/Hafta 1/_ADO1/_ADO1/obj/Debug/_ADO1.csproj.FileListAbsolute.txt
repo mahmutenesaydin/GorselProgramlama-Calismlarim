@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\bin\Debug\_ADO1.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\bin\Debug\_ADO1.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\bin\Debug\_ADO1.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.MainForm.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.Properties.Resources.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.csproj.GenerateResource.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\obj\Debug\_ADO1.Images.resources
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\bin\Debug\_DataLibrary.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADO1\bin\Debug\_DataLibrary.pdb

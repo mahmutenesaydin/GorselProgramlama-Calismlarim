@@ -1,0 +1,12 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 3 - NorthwindSolution\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,13 @@
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\bin\Debug\GP IO(ADO.NET Ders 2) Disconnected.exe.config
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\bin\Debug\GP IO(ADO.NET Ders 2) Disconnected.exe
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\bin\Debug\GP IO(ADO.NET Ders 2) Disconnected.pdb
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP IO(ADO.NET Ders 2) Disconnected.csprojResolveAssemblyReference.cache
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP_IO_ADO.NET_Ders_2__Disconnected.Form1.resources
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP_IO_ADO.NET_Ders_2__Disconnected.Properties.Resources.resources
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP IO(ADO.NET Ders 2) Disconnected.csproj.GenerateResource.Cache
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP IO(ADO.NET Ders 2) Disconnected.exe
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP IO(ADO.NET Ders 2) Disconnected.pdb
+c:\users\abc\documents\visual studio 2015\Projects\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP_IO_ADO.NET_Ders_2__Disconnected.Kategori.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\bin\Debug\GP IO(ADO.NET Ders 2) Disconnected.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP IO(ADO.NET Ders 2) Disconnected.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\İbrahim Öz\GP IO(ADO.NET Ders 2) Disconnected\GP IO(ADO.NET Ders 2) Disconnected\obj\Debug\GP IO(ADO.NET Ders 2) Disconnected.pdb

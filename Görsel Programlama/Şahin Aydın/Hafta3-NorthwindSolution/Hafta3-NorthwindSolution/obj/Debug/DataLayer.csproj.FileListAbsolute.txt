@@ -1,0 +1,4 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta3-NorthwindSolution\Hafta3-NorthwindSolution\bin\Debug\Hafta3-NorthwindSolution.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta3-NorthwindSolution\Hafta3-NorthwindSolution\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta3-NorthwindSolution\Hafta3-NorthwindSolution\obj\Debug\Hafta3_NorthwindSolution.Properties.Resources.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta3-NorthwindSolution\Hafta3-NorthwindSolution\obj\Debug\DataLayer.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_DataLibrary\bin\Debug\_DataLibrary.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_DataLibrary\bin\Debug\_DataLibrary.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_DataLibrary\obj\Debug\_DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_DataLibrary\obj\Debug\_DataLibrary.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_DataLibrary\obj\Debug\_DataLibrary.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_DataLibrary\bin\Debug\_DataLibrary.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_DataLibrary\bin\Debug\_DataLibrary.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_DataLibrary\obj\Debug\_DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_DataLibrary\obj\Debug\_DataLibrary.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_DataLibrary\obj\Debug\_DataLibrary.pdb

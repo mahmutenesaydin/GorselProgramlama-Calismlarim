@@ -1,0 +1,44 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\csc.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\vbc.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\_ADOWEB.dll.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\_ADOWEB.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\_ADOWEB.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\_DataLibrary.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\_DataLibrary.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\obj\Debug\_ADOWEB.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\obj\Debug\_ADOWEB.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 1\_ADO1\_ADOWEB\obj\Debug\_ADOWEB.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\csc.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\vbc.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\_ADOWEB.dll.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\_ADOWEB.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\_ADOWEB.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\_DataLibrary.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\_DataLibrary.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\obj\Debug\_ADOWEB.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\obj\Debug\_ADOWEB.dll
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\Hafta 1\_ADO1\_ADOWEB\obj\Debug\_ADOWEB.pdb

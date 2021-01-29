@@ -1,0 +1,9 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\bin\Debug\UrunBilgi.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\bin\Debug\UrunBilgi.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\bin\Debug\UrunBilgi.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\obj\Debug\UrunBilgi.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\obj\Debug\UrunBilgi.Giris.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\obj\Debug\UrunBilgi.Properties.Resources.resources
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\obj\Debug\UrunBilgi.csproj.GenerateResource.Cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\obj\Debug\UrunBilgi.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\Görsel Programlama\Şahin Aydın\UrunBilgi\UrunBilgi\obj\Debug\UrunBilgi.pdb

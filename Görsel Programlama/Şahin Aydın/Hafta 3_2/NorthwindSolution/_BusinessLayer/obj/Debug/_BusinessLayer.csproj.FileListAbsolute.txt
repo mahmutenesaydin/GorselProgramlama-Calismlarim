@@ -1,0 +1,12 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\_BusinessLayer.dll.config
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\_DataLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\_DataLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2018 - 2019 AKADEMİK YILI\Bahar\Görsel Programlama\1. Öğretim\Hafta 3_2\NorthwindSolution\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
